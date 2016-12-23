@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'exchangeFail',
+  name: 'exchangefail',
   version: '0.0.1',
   summary: '',
   git: '',
